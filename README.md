@@ -7,6 +7,7 @@
 Literary Charms is a responsive web project that simulates a book subscription club website. It was developed to apply core Web Responsiveness concepts using HTML and CSS, while also implementing advanced CSS Animation techniques.
 
 Key Features
+
 --> Responsive Design: A fully adaptable layout that ensures a seamless experience across mobile, tablet, and desktop devices.
 
 --> Pure CSS Animations: Engaging visual elements and transitions built entirely with CSS to enhance user interaction.
