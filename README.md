@@ -35,5 +35,4 @@ This project was developed using the following technologies:
 - GIT E Github
 
 ## 🏷️ Layout
-You can view the project layout through [this link](https://www.figma.com/community/file/1394686421442995256).
-Note: A Figma account is required [Figma](https://www.figma.com).
+You can view the project layout through [this link](https://www.figma.com/community/file/1394686421442995256). A Figma account is required [Figma](https://www.figma.com).
